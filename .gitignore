@@ -1,0 +1,7 @@
+src/**/*.o
+src/**/*.d
+tests/**/*.o
+tests/**/*.d
+minestorm
+minestorm.exe
+build.tar.gz

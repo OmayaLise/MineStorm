@@ -1,0 +1,28 @@
+{
+    "files.associations": {
+        "raylib.h": "c",
+        "mathlibrary.h": "c",
+        "math.h": "c",
+        "player.h": "c",
+        "collider.h": "c",
+        "game.h": "c",
+        "sprite.h": "c",
+        "type_traits": "cpp",
+        "ennemies.h": "c",
+        "stdlib.h": "c",
+        "projectile.h": "c",
+        "cstdlib": "c",
+        "cassert": "c",
+        "climits": "c",
+        "cmath": "c",
+        "cstdarg": "c",
+        "cstddef": "c",
+        "cstdio": "c",
+        "limits": "c",
+        "*.tcc": "c",
+        "cstdbool": "c",
+        "cstdint": "c",
+        "typeinfo": "c",
+        "menu.h": "c"
+    }
+}
